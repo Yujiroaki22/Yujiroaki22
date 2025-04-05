@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Zarni and i'm just a passionate software engineering student from University Of Computer Studies Yangon.
+I'm just a passionate software engineering student from University Of Computer Studies Yangon.
 
 
 ## 🌐 Socials:
